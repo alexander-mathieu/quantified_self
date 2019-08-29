@@ -10,12 +10,6 @@ https://calorie-coach.herokuapp.com/
 
 The accompanying micro-service can be viewed [here](https://github.com/alexander-mathieu/quantified_self_microservice).
 
-## Learning Goals
-* Create an Express API given specified endpoints and response formats
-* Create a micro-service that interfaces with the Edamam API
-* Integrate both apps together to complete the Quantified Self experience
-* Implement a GraphQL endpoint
-
 ## Endpoints
 
 ### GET /api/v1/foods
@@ -333,7 +327,7 @@ Example of expected output:
 ### Clone
 
 ```
-$ git clone https://github.com/CosmicSpagetti/quantified_self.git
+$ git clone https://github.com/alexander-mathieu/quantified_self.git
 $ cd quantified_self
 $ npm install
 ```
